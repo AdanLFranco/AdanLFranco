@@ -38,6 +38,7 @@ Busco mi **primera oportunidad profesional en IT** para seguir aprendiendo y apo
 
 ### 🗄️ Base de datos  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 
 ### 🛠️ Otras herramientas  
@@ -48,13 +49,20 @@ Busco mi **primera oportunidad profesional en IT** para seguir aprendiendo y apo
 
 ---
 
+## 🤝 Soft Skills  
+
+🧩 Trabajo en equipo | 💬 Comunicación efectiva | ⚡ Resolución de problemas  
+🎯 Responsabilidad | 🔍 Atención al detalle | 🚀 Aprendizaje constante  
+
+---
+
 ## 📂 Proyectos destacados  
 
 ### 🍷 [La Vinoteca](https://#)
 **E-commerce desarrollado como proyecto final de mi especialización Front End en SoyHenry.**  
 Catálogo de productos con filtros, registro e inicio de sesión, y rutas protegidas para el dashboard y el carrito de compras.  
 
-🧰 **Stack:** React | Next.js | TypeScript | Tailwind CSS | Formik | Yup | Context API  
+🧰 **Stack:** React | Next.js | TypeScript | Tailwind CSS | Formik | Yup | Context API | PostgreSQL  
 
 🔹 Diseño responsive y moderno con Tailwind  
 🔹 Validaciones de formularios con Formik + Yup  
@@ -65,8 +73,14 @@ Catálogo de productos con filtros, registro e inicio de sesión, y rutas proteg
 ---
 
 ### 🎨 [Ingenio Art School](https://#)
-Aplicación web Full Stack para la gestión de talleres artísticos y turnos.  
-> React | Node.js | Express | PostgreSQL | JWT | CSS Modules  
+Aplicación web Full Stack para la gestión de talleres artísticos, turnos y usuarios autenticados.  
+
+🧰 **Stack:** React | Node.js | Express | MongoDB | PostgreSQL | JWT | CSS Modules  
+
+🔹 Implementación de arquitectura cliente-servidor  
+🔹 CRUD completo con bases de datos relacional y no relacional  
+🔹 Validaciones y autenticación de usuarios  
+🔹 Diseño modular y componentes reutilizables en React  
 
 ---
 
