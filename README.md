@@ -12,7 +12,7 @@
 
 ## 🚀 Sobre mí  
 
-Soy un desarrollador web en formación apasionado por la tecnología y la creación de soluciones digitales.  
+Soy un desarrollador web en formación con un gran interés por la tecnología y la creación de soluciones digitales.  
 Recientemente finalicé mi **especialización en Front End** en el bootcamp de **SoyHenry**, donde trabajé con tecnologías modernas como **React, Next.js y TypeScript**.  
 
 💡 Me motiva aprender constantemente, trabajar en equipo y seguir creciendo en el mundo del desarrollo web.  
@@ -62,7 +62,7 @@ Busco mi **primera oportunidad profesional en IT** para seguir aprendiendo y apo
 **E-commerce desarrollado como proyecto final de mi especialización Front End en SoyHenry.**  
 Catálogo de productos con filtros, registro e inicio de sesión, y rutas protegidas para el dashboard y el carrito de compras.  
 
-🧰 **Stack:** React | Next.js | TypeScript | Tailwind CSS | Formik | Yup | Context API | PostgreSQL  
+🧰 **Stack:** React | Next.js | TypeScript | Tailwind CSS | Formik | Yup | Context API | JWT | PostgreSQL  
 
 🔹 Diseño responsive y moderno con Tailwind  
 🔹 Validaciones de formularios con Formik + Yup  
@@ -75,10 +75,10 @@ Catálogo de productos con filtros, registro e inicio de sesión, y rutas proteg
 ### 🎨 [Ingenio Art School](https://#)
 Aplicación web Full Stack para la gestión de talleres artísticos, turnos y usuarios autenticados.  
 
-🧰 **Stack:** React | Node.js | Express | MongoDB | PostgreSQL | JWT | CSS Modules  
+🧰 **Stack:** React | Node.js | Tyoescript | Express | MongoDB | CSS Modules  
 
 🔹 Implementación de arquitectura cliente-servidor  
-🔹 CRUD completo con bases de datos relacional y no relacional  
+🔹 CRUD completo con base de datos no relacional  
 🔹 Validaciones y autenticación de usuarios  
 🔹 Diseño modular y componentes reutilizables en React  
 
