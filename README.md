@@ -72,7 +72,7 @@ Catálogo de productos con filtros, registro e inicio de sesión, y rutas proteg
 
 ---
 
-### 🎨 [Ingenio Art School](https://#)
+### 🎨 [Ingenio Art School](https://github.com/pi-rym/PM3-AdanLFranco)
 Aplicación web Full Stack para la gestión de talleres artísticos, turnos y usuarios autenticados.  
 
 🧰 **Stack:** React | Node.js | Tyoescript | Express | MongoDB | CSS Modules  
