@@ -58,7 +58,7 @@ Busco mi **primera oportunidad profesional en IT** para seguir aprendiendo y apo
 
 ## 📂 Proyectos destacados  
 
-### 🍷 [La Vinoteca](https://#)
+### 🍷 [La Vinoteca](https://github.com/AdanLFranco/ecommerce-la-vinoteca))
 **E-commerce desarrollado como proyecto final de mi especialización Front End en SoyHenry.**  
 Catálogo de productos con filtros, registro e inicio de sesión, y rutas protegidas para el dashboard y el carrito de compras.  
 
