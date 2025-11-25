@@ -84,12 +84,6 @@ Aplicación web Full Stack para la gestión de talleres artísticos, turnos y us
 
 ---
 
-### 🎬 [Movie Manager API](https://#)
-API REST para administrar películas con validaciones y autenticación.  
-> Node.js | Express | PostgreSQL  
-
----
-
 ## 📊 Mis estadísticas en GitHub  
 
 <p align="center">
